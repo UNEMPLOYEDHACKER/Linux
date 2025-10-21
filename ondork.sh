@@ -23,7 +23,7 @@ show_banner() {
     echo " ██    ██ ██  ██ ██ ██   ██ ██    ██ ██   ██ ██  ██  "
     echo "  ██████  ██   ████ ██████   ██████  ██   ██ ██   ██ "
     echo -e "${NC}"
-    echo -e "${YELLOW}           Linux Installer${NC}"
+    echo -e "${YELLOW} Linux Installer,Found us in telegram @Ahand_Aryavart${NC}"
     echo -e "${PURPLE}═══════════════════════════════════════════════════${NC}\n"
 }
 
