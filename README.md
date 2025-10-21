@@ -92,9 +92,8 @@ pkg update && pkg upgrade -y
 
 ### Step 3: Download OnDork
 ```bash
-# Download the script
-curl -O https://raw.githubusercontent.com/yourusername/ondork/main/ondork.sh
-
+# Clone The Repository 
+git clone  https://github.com/UNEMPLOYEDHACKER/Linux
 # Make it executable
 chmod +x ondork.sh
 ```
